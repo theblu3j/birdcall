@@ -1,8 +1,11 @@
 #!/bin/bash
 
+
 # NOW PRESENTING
 # A SUPER OVER-COMPLICATED SCRIPT THAT COULD PROBABLY BE MADE SIMPLER
 # VERSION 2
+
+# NAME CREDIT GOES TO -- JUSTIN LI
 
 # if it wasnt fucking obvious i code like someone who's teaching themselves off the finest web searches
 # requirements: bash gum pipewire pipewire-pulse
